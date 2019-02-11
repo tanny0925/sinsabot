@@ -1,1 +1,1 @@
-worker: python 디스코드봇.py
+worker: python sinsabot.py
