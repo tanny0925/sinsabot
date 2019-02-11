@@ -1,3 +1,1 @@
 discord.py==0.16.12
-openpyxl==2.6.0
-pip==10.0.1
